@@ -5,7 +5,6 @@ I am a full-stack developer bridging the gap between robust backend architecture
 ### About Me
 - Experienced in building end-to-end applications, from designing secure RESTful APIs to developing highly responsive user interfaces.
 - Strong foundation in Data Structures & Algorithms (100+ problems solved on LeetCode), applying optimized logic to real-world engineering challenges.
-- Passionate about integrating advanced technologies like computer vision (YOLOv8) and low-latency data streaming (WebSockets) into practical applications.
 - Currently focused on deepening my expertise in scalable backend architectures, database optimization, and cloud deployments.
 
 ---
