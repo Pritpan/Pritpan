@@ -29,8 +29,8 @@ I am a full-stack developer bridging the gap between robust backend architecture
 ### GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pritpan&show_icons=true&theme=dark" alt="Pratik's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pritpan&layout=compact&theme=dark" alt="Top Langs" />
+  <img src="./profile/stats.svg" alt="Pratik's GitHub Stats" height="180"/>
+  <img src="./profile/top-langs.svg" alt="Top Languages" height="180"/>
 </div>
 
 ---
